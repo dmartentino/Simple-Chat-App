@@ -1,0 +1,41 @@
+body{		
+	margin:0px;
+	padding:0px;
+	background-color:#CCC;
+}
+h1{
+	text-align:center;
+	font-style:tahoma;
+}
+#wrapper{
+	width:700px;
+	margin:0px auto;
+	min-height:500px;
+	background-color:#FFF;
+	padding-top:50px;
+}
+#messages{
+	width:600px;
+	margin:0px auto;
+	border:1px solid #eee;
+	min-height:400px;
+}
+#inputwrapper{
+	width:600px;
+	margin:0px auto;
+}
+#chatbox{
+	width:530px;
+	height:30px;
+	padding:5px;
+	margin:0px auto;
+}
+#sendbtn{
+	width:66px;
+	height:30px;
+	font-weight:bold;
+	font-family:tahoma;
+	background-color:#333;
+	color:#FFF;
+	border: 1px solid #000;	
+}
